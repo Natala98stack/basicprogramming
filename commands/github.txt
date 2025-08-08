@@ -1,2 +1,5 @@
 git init
 git remote add origin https://github.com/Natala98stack/basicprogramming.git
+git add .
+git commit -m "my initial commit"
+git push origin master
